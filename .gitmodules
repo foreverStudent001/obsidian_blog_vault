@@ -1,3 +1,6 @@
 [submodule "obsidian_blog_vault"]
 	path = obsidian_blog_vault
 	url = https://github.com/foreverStudent001/obsidian_blog_vault
+[submodule "content"]
+	path = content
+	url = https://github.com/foreverStudent001/obsidian_blog_vault
